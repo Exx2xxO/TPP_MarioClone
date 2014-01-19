@@ -1,0 +1,26 @@
+{
+	"tiles" : {
+		"path" : "res/tiles.json"
+	},
+
+	"items" : {
+		"path" : "res/items.json"
+	},
+	
+	"hud" : {
+		"path" : "res/hud.json"
+	},
+	
+	"player" : {
+		"path" : "res/player.json"
+	},
+	
+	"enemies" : {
+		"path" : "res/enemies.json"
+	},
+
+	"meta" : {
+		"num_files" : 5
+	}
+
+}

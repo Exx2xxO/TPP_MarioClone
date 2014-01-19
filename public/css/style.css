@@ -1,0 +1,34 @@
+.center {
+	float: none;
+	margin : 0 auto;
+}
+
+#game {
+	width: 880px;
+	height: 495px;
+}
+
+canvas {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background: transparent;
+}
+
+#background {
+	z-index: 0;
+}
+#enemy {
+	z-index: 1;
+}
+#player {
+	z-index: 2;
+}
+#foreground {
+	z-index: 3;
+}
+
+.col-md-4{
+	height: 495px;
+	overflow-y: auto;
+}
